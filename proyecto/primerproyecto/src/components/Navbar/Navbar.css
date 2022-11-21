@@ -1,0 +1,21 @@
+
+.boton1{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #ba3618;
+    border-radius: 6px;
+    border: 2px solid #371b02;
+}
+   .boton1:hover{
+    color: #010b10;
+    background-color: #ffffff;
+  }
+
+  .navbar{
+    display: flex;
+    justify-content: center;
+  }
+
